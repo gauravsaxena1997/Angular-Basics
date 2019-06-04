@@ -1,0 +1,18 @@
+*{
+    font-family: 'Nunito', sans-serif;
+    font-size: 24px;
+}
+h3{
+    text-align: center;
+}
+.class-success{
+    color:green;
+   }
+   
+   .class-fail{
+    color:red;
+   }
+   
+   .class-special{
+    font-style: italic;
+   }
